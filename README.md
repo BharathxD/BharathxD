@@ -1,4 +1,4 @@
-# Konnichiwa
+# Konnichiwa 👋🏻
 
 #### Hello! I'm Bharath, an 18-year-old chap based in Hyderabad, currently a Bachelor of Computer Applications undergraduate [BCA] student at KL University Hyderabad.
 
