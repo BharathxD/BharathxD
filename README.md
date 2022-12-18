@@ -34,3 +34,9 @@ Feel free to reach out to me via email or LinkedIn if you have any questions or 
 **Email** `2110520062@klh.edu.in`
 
 **LinkedIn** `linkedin.com/in/bharath-bandi`
+
+[![Twitter: Bharath_UwU](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/bharath_uwu)
+
+[![Linkedin: Bharath Lakshman Kumar](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/bharath-bandi/)
+
+[![GitHub BharathXD](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/BharathXD)
