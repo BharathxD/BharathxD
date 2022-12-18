@@ -35,8 +35,7 @@ Feel free to reach out to me via email or LinkedIn if you have any questions or 
 
 **LinkedIn** `linkedin.com/in/bharath-bandi`
 
-[![Twitter: Bharath_UwU](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/bharath_uwu)
+[![Twitter: Bharath_UwU](https://img.shields.io/twitter/follow/Bharath_UwU?style=social)](https://twitter.com/bharath_uwu)
 
-[![Linkedin: Bharath Lakshman Kumar](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/bharath-bandi/)
+[![GitHub BharathXD](https://img.shields.io/github/followers/BharathXD?style=social)](https://github.com/BharathXD)
 
-[![GitHub BharathXD](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/BharathXD)
