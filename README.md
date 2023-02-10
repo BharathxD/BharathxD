@@ -1,22 +1,35 @@
 # Bharath Lakshman Kumar
 
- Hello! I'm Bharath, an 18-year-old chap based in Hyderabad, currently a Bachelor of Computer Applications undergraduate [BCA] student at KL University Hyderabad.
-
+Hello! I'm Bharath, an 18-year-old chap based in Hyderabad, currently a Bachelor of Computer Applications undergraduate [BCA] student at KL University Hyderabad.
 
  I specialize in FrontEnd Web-Development as a part of my passion and interests. Additionally, I gained more insight into the Command Line Interface (CLI) and RESTful API.
+ 
+ <p align="center">
+ 
+ [![portfolio](https://img.shields.io/badge/-portfolio-black?style=flat-square?style=for-the-badge&logo=ko-fi&logoColor=white)](https://BharathBandi.me)  &nbsp;[![Linkedin Badge](https://img.shields.io/badge/-bharathxd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bharathxd/)](https://www.linkedin.com/in/bharathxd/)  &nbsp;[![Gmail Badge](https://img.shields.io/badge/-bharatlaxmonkumarb2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bharatlaxmonkumarb2@gmail.com)](bharatlaxmonkumarb2@gmail.com)
+</p>
 
-### 🎩 Skills
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=bharathxd&theme=github">
+
+## 🎩 Skills
 
 - Programming languages: Python, Java, C/C++, JavaScript/TypeScript
 - Frameworks and technologies: NodeJS, React, Amazon Web Services, Microsoft Azure
 - Other skills: Software Engineering, Cloud Computing, Frontend Webdevelopment
 
-### 📚 Education
+## 📚 Education
 
 - Bachelor's degree in Computer Application from KL University
 - Relevant coursework: Cloud Computing, Algorithms, Software Engineering
 
-### 🧰 Languages and Tools
+### 💼 Experience
+
+- Intern at The Sparks Foundation (2022)
+  - Worked on the design and development of a Simple Banking Web Application using NodeJS, Express, and MySQL
+  - Used Asynchronous JavaScript And XML technique to display the Recent Transaction Logs
+  - A Single-page Web application with RazorPay Payment Gateway Integration along with an option to download a raw invoice
+
+## 🧰 Languages and Tools
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -33,35 +46,16 @@
 
 <br />
 
-#
-
-
 ## 📈 Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bharathxd&show_icons=true&theme=dark#gh-dark-mode-only" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathxd&layout=compact" />
+<p align="center" >
+	
+  <img width="52%" src="https://github-readme-stats.vercel.app/api?username=bharathxd&show_icons=true&theme=dark#gh-dark-mode-only" />
+  &nbsp;
+    <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathxd&layout=compact&langs_count=6&theme=dark#gh-dark-mode-only" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=bharathxd&theme=dark#gh-dark-mode-only" />
 </p>
 
-### 💼 Experience
 
-- Intern at The Sparks Foundation (2022)
-  - Worked on the design and development of a Simple Banking Web Application using NodeJS, Express, and MySQL
-  - Used Asynchronous JavaScript And XML technique to display the Recent Transaction Logs
-  - A Single-page Web application with RazorPay Payment Gateway Integration along with an option to download a raw invoice
 
-### 𝌕 Know more about me
 
-Feel free to reach out to me via email or LinkedIn if you have any questions or just want to connect!
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://BharathBandi.me)
-
-### 📇 Contact
-
-**Email** `2110520062@klh.edu.in`
-
-**LinkedIn** `linkedin.com/in/bharath-bandi`
-
-[![Twitter: Bharath_UwU](https://img.shields.io/twitter/follow/Bharath_UwU?style=social)](https://twitter.com/bharath_uwu)
-
-[![GitHub BharathXD](https://img.shields.io/github/followers/BharathXD?style=social)](https://github.com/BharathXD)
 
