@@ -35,6 +35,14 @@
 
 #
 
+# 
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bharathxd&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+#
+
 ### 💼 Experience
 
 - Intern at The Sparks Foundation (2022)
