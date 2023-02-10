@@ -30,8 +30,6 @@ Hello! I'm Bharath, an 18-year-old chap based in Hyderabad, currently a Bachelor
   - A Single-page Web application with RazorPay Payment Gateway Integration along with an option to download a raw invoice
 
 ## 🧰 Languages and Tools
-
-<br />
 <br />
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
