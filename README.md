@@ -54,8 +54,3 @@ Hello! I'm Bharath, an 18-year-old chap based in Hyderabad, currently a Bachelor
     <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathxd&layout=compact&langs_count=6&theme=dark#gh-dark-mode-only" />
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=bharathxd&theme=dark#gh-dark-mode-only" />
 </p>
-
-
-
-
-
