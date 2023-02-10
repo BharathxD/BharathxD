@@ -35,19 +35,12 @@
 
 #
 
-<table>
-  <tr>
-   
-   <td valign="top">
- [![Bharath's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bharathxd&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) 
-   </td>
 
-   <td valign="top">
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact)]  (https://github.com/anuraghazra/github-readme-stats)
-   </td>
-
- </tr>
-</table>
+## 📈 Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bharathxd&show_icons=true&theme=dark#gh-dark-mode-only" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact" />
+</p>
 
 ### 💼 Experience
 
