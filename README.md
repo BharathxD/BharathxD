@@ -6,7 +6,7 @@ Hello! I'm Bharath, an 18-year-old chap based in Hyderabad, currently a Bachelor
  
  <p align="center">
  
- [![portfolio](https://img.shields.io/badge/-portfolio-black?style=flat-square?style=for-the-badge&logo=ko-fi&logoColor=white)](https://BharathBandi.me)  &nbsp;[![Linkedin Badge](https://img.shields.io/badge/-bharathxd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bharathxd/)](https://www.linkedin.com/in/bharathxd/)  &nbsp;[![Gmail Badge](https://img.shields.io/badge/-bharatlaxmonkumarb2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bharatlaxmonkumarb2@gmail.com)](bharatlaxmonkumarb2@gmail.com)
+ [![portfolio](https://img.shields.io/badge/-portfolio-black?style=flat-square?style=for-the-badge&logo=ko-fi&logoColor=white)](https://BharathBandi.me)  &nbsp;[![Linkedin Badge](https://img.shields.io/badge/-Bharath%20Lakshman%20kumar%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bharath-bandi/)](https://www.linkedin.com/in/bharath-bandi/)  &nbsp;[![Gmail Badge](https://img.shields.io/badge/-bharatlaxmonkumarb2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bharatlaxmonkumarb2@gmail.com)](bharatlaxmonkumarb2@gmail.com)
 </p>
 
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bharathxd&theme=github">
