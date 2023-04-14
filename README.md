@@ -16,13 +16,11 @@ Greetings! I'm Bharath Lakshman Kumar B, and I'm currently a sophomore pursuing 
 
 
 ## 📚 Education
--------
 - Bachelor's degree in Computer Application from KL University
 - Relevant coursework: Cloud Engineering, Cloud Architecting, Data Structures, Software Engineering
 
 
 ## 🧰 Languages and Tools
-----
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NextJS](https://img.shields.io/badge/NextJS-%23323330.svg?style=for-the-badge&logo=react&logoColor=%23F7DF1E)
@@ -46,16 +44,14 @@ Greetings! I'm Bharath Lakshman Kumar B, and I'm currently a sophomore pursuing 
 
 
 ## 📈 Stats
-----
 
 <p align="center" >
 	
   <img width="53%" src="https://github-readme-stats.vercel.app/api?username=bharathxd&show_icons=true&theme=dark#gh-dark-mode-only" />
-    <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathxd&layout=compact&langs_count=4&theme=dark#gh-dark-mode-only" />
+    <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathxd&layout=compact&langs_count=6&theme=dark#gh-dark-mode-only" />
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=bharathxd&theme=dark#gh-dark-mode-only" />
 </p>
 
 ## 🏆 GitHub Trophies
-----
 
 ![](https://github-profile-trophy.vercel.app/?username=BharathxD&theme=radical&no-frame=false&no-bg=true&margin-w=4)
