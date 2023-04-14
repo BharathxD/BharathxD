@@ -1,35 +1,28 @@
 # Bharath Lakshman Kumar
 
-Hello! I'm Bharath, an 18-year-old chap based in Hyderabad, currently a Bachelor of Computer Applications undergraduate [BCA] student at KL University Hyderabad.
+Greetings! I'm Bharath Lakshman Kumar B, and I'm currently a sophomore pursuing a Bachelor's degree in Computer Applications at KL University Hyderabad. I'm part of the 2021-24 batch. As an ambitious individual with a deep passion for technology, I'm highly motivated to excel in the field of computer science. My dedication to learning and exploring new technologies has helped me develop a strong foundation in programming, web development, and database management. I'm excited to continue building my skills and knowledge in this field, and I'm confident that my enthusiasm and drive will lead to future success. 
+<br />
 
- I specialize in FrontEnd Web-Development as a part of my passion and interests. Additionally, I gained more insight into the Command Line Interface (CLI) and RESTful API.
+<p align="center">
  
- <p align="center">
- 
- [![portfolio](https://img.shields.io/badge/-portfolio-black?style=flat-square?style=for-the-badge&logo=ko-fi&logoColor=white)](https://BharathBandi.me)  &nbsp;[![Linkedin Badge](https://img.shields.io/badge/-Bharath%20Lakshman%20kumar%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bharath-bandi/)](https://www.linkedin.com/in/bharath-bandi/)  &nbsp;[![Gmail Badge](https://img.shields.io/badge/-bharatlaxmonkumarb2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bharatlaxmonkumarb2@gmail.com)](bharatlaxmonkumarb2@gmail.com)
+ [![portfolio](https://img.shields.io/badge/-portfolio-black?style=flat-square?style=for-the-badge&logo=ko-fi&logoColor=white)](https://BharathBandi.me)  &nbsp;[![Linkedin Badge](https://img.shields.io/badge/-Bharath%20Lakshman%20kumar%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bharath-bandi/)](https://www.linkedin.com/in/bharath-bandi/)  &nbsp;[![Gmail Badge](https://img.shields.io/badge/-bharatlaxmonkumarb2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bharatlaxmonkumarb2@gmail.com)](bharatlaxmonkumarb2@gmail.com) [![](https://visitcount.itsvg.in/api?id=BharathxD&icon=0&color=0)](https://visitcount.itsvg.in)
+
 </p>
 
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bharathxd&theme=github">
 
-## 🎩 Skills
-
-- Programming languages: Python, Java, C/C++, JavaScript/TypeScript
-- Frameworks and technologies: NodeJS, React, Amazon Web Services, Microsoft Azure
-- Other skills: Software Engineering, Cloud Computing, Frontend Webdevelopment
+<br />
 
 ## 📚 Education
+<br />
 
 - Bachelor's degree in Computer Application from KL University
-- Relevant coursework: Cloud Computing, Algorithms, Software Engineering
+- Relevant coursework: Cloud Engineering, Cloud Architecting, Data Structures, Software Engineering
 
-### 💼 Experience
-
-- Intern at The Sparks Foundation (2022)
-  - Worked on the design and development of a Simple Banking Web Application using NodeJS, Express, and MySQL
-  - Used Asynchronous JavaScript And XML technique to display the Recent Transaction Logs
-  - A Single-page Web application with RazorPay Payment Gateway Integration along with an option to download a raw invoice
 
 ## 🧰 Languages and Tools
+
+<br />
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NextJS](https://img.shields.io/badge/NextJS-%23323330.svg?style=for-the-badge&logo=react&logoColor=%23F7DF1E)
@@ -51,11 +44,20 @@ Hello! I'm Bharath, an 18-year-old chap based in Hyderabad, currently a Bachelor
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+<br />
+
 ## 📈 Stats
+
+<br />
 <p align="center" >
 	
-  <img width="52%" src="https://github-readme-stats.vercel.app/api?username=bharathxd&show_icons=true&theme=dark#gh-dark-mode-only" />
-  &nbsp;
-    <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathxd&layout=compact&langs_count=6&theme=dark#gh-dark-mode-only" />
+  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=bharathxd&show_icons=true&theme=dark#gh-dark-mode-only" />
+    <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathxd&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only" />
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=bharathxd&theme=dark#gh-dark-mode-only" />
-</p>
+</p><br/>
+
+## 🏆 GitHub Trophies
+
+<br/>
+
+![](https://github-profile-trophy.vercel.app/?username=BharathxD&theme=radical&no-frame=false&no-bg=true&margin-w=4)
