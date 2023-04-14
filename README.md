@@ -1,7 +1,8 @@
 # Bharath Lakshman Kumar
 
 Greetings! I'm Bharath Lakshman Kumar B, and I'm currently a sophomore pursuing a Bachelor's degree in Computer Applications at KL University Hyderabad. I'm part of the 2021-24 batch. As an ambitious individual with a deep passion for technology, I'm highly motivated to excel in the field of computer science. My dedication to learning and exploring new technologies has helped me develop a strong foundation in programming, web development, and database management. I'm excited to continue building my skills and knowledge in this field, and I'm confident that my enthusiasm and drive will lead to future success. 
-<br />
+
+----
 
 <p align="center">
  
@@ -9,20 +10,19 @@ Greetings! I'm Bharath Lakshman Kumar B, and I'm currently a sophomore pursuing 
 
 </p>
 
+
+
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bharathxd&theme=github">
 
-<br />
 
 ## 📚 Education
-<br />
-
+-------
 - Bachelor's degree in Computer Application from KL University
 - Relevant coursework: Cloud Engineering, Cloud Architecting, Data Structures, Software Engineering
 
 
 ## 🧰 Languages and Tools
-
-<br />
+----
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NextJS](https://img.shields.io/badge/NextJS-%23323330.svg?style=for-the-badge&logo=react&logoColor=%23F7DF1E)
@@ -44,20 +44,18 @@ Greetings! I'm Bharath Lakshman Kumar B, and I'm currently a sophomore pursuing 
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-<br />
 
 ## 📈 Stats
+----
 
-<br />
 <p align="center" >
 	
   <img width="53%" src="https://github-readme-stats.vercel.app/api?username=bharathxd&show_icons=true&theme=dark#gh-dark-mode-only" />
-    <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathxd&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only" />
+    <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathxd&layout=compact&langs_count=4&theme=dark#gh-dark-mode-only" />
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=bharathxd&theme=dark#gh-dark-mode-only" />
-</p><br/>
+</p>
 
 ## 🏆 GitHub Trophies
-
-<br/>
+----
 
 ![](https://github-profile-trophy.vercel.app/?username=BharathxD&theme=radical&no-frame=false&no-bg=true&margin-w=4)
