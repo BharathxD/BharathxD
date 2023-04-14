@@ -31,8 +31,6 @@ Hello! I'm Bharath, an 18-year-old chap based in Hyderabad, currently a Bachelor
 
 ## 🧰 Languages and Tools
 
-# 💻 Tech Stack:
-
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NextJS](https://img.shields.io/badge/NextJS-%23323330.svg?style=for-the-badge&logo=react&logoColor=%23F7DF1E)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -52,11 +50,6 @@ Hello! I'm Bharath, an 18-year-old chap based in Hyderabad, currently a Bachelor
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-
-<br />
-<br />
-
 
 ## 📈 Stats
 <p align="center" >
