@@ -37,11 +37,13 @@ These certifications have facilitated the refinement of my Deployment skills in 
 
 ## 🧰 Languages and Tools
 
+
 <div style="text-align: center; margin: 20px">
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,react,redux,nextjs,nodejs,express,html,css,sass,aws,azure,mongodb,docker,mysql,graphql,dynamodb,postman,c,cpp,java,python,heroku,bootstrap,materialui,git,github,firebase,bash,tailwind,nginx,figma,linux,babel,vscode&perline=7)](https://skillicons.dev)
 
 </div>
+
 
 ## 📈 Stats
 
