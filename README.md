@@ -20,6 +20,7 @@ Greetings! I'm Bharath Lakshman Kumar B, and I'm currently a sophomore pursuing 
 ## 🏆 Academic Achievements
 
 - AWS Certified Developer Associate
+- AWS Certified Solutions Architect Associate
 - AWS Certified Cloud Practitioner
 - Microsoft Certified Azure Fundamentals
 - Microsoft Certified Azure AI Fundamentals
