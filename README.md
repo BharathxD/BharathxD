@@ -19,14 +19,14 @@ Greetings! I'm Bharath Lakshman Kumar B, and I'm currently a sophomore pursuing 
 
 ## 🏆 Academic Achievements
 
-- AWS Certified Developer Associate
-- AWS Certified Solutions Architect Associate
-- AWS Certified Cloud Practitioner
-- Microsoft Certified Azure Fundamentals
-- Microsoft Certified Azure AI Fundamentals
-- Microsoft Certified Azure Data Fundamentals
-- Microsoft Certified: Security, Compliance, and Identity Fundamentals
-- Oracle Cloud Infrastructure Certified Foundations Associate.
+1. AWS Certified Developer Associate
+2. AWS Certified Solutions Architect Associate
+3. AWS Certified Cloud Practitioner
+4. Microsoft Certified Azure Fundamentals
+5. Microsoft Certified Azure AI Fundamentals
+6. Microsoft Certified Azure Data Fundamentals
+7. Microsoft Certified: Security, Compliance, and Identity Fundamentals
+8. Oracle Cloud Infrastructure Certified Foundations Associate.
 
 These certifications have facilitated the refinement of my Deployment skills in diverse domains, ranging from Client-Side to Server-Side. Furthermore, they have imparted to me a comprehensive understanding of cloud technology, which is an essential element of contemporary computing.
 
