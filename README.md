@@ -10,7 +10,7 @@ Greetings! I'm Bharath Lakshman Kumar B, and I'm currently a sophomore pursuing 
 
 </p>
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=bharathxd&theme=github">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BharathxD&theme=github">
 
 ## 📚 Education
 
