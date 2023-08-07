@@ -15,7 +15,7 @@ Greetings! I'm Bharath Lakshman Kumar B and I'm currently a junior pursuing a Ba
 ## 📚 Education
 
 - Bachelor's degree in Computer Application from KL University
-- Relevant coursework: `Cloud Engineering`, `Cloud Architecting`, `Data Structures`, `Software Engineering`
+- Relevant coursework: `Cloud Engineering`, `Cloud Architecting`, `Data Structures and Algorithms`, `Software Engineering`
 
 ## 🏆 Academic Achievements
 
