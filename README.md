@@ -1,6 +1,6 @@
 # Bharath Lakshman Kumar
 
-Greetings! I'm Bharath Lakshman Kumar B and I'm currently a senior pursuing a Bachelor's degree in Computer Applications at KL University Hyderabad. I'm part of the 2021-24 batch. As an ambitious individual with a deep passion for technology, I'm highly motivated to excel in the field of computer science. My dedication to learning and exploring new technologies has helped me develop a strong foundation in programming, web development, and database management. I'm excited to continue building my skills and knowledge in this field, and I'm confident that my enthusiasm and drive will lead to future success.
+Greetings! I'm Bharath Lakshman Kumar B and I'm currently a Senior pursuing a Bachelor's degree in Computer Applications at KL University Hyderabad. I'm part of the 2021-24 batch. As an ambitious individual with a deep passion for technology, I'm highly motivated to excel in the field of computer science. My dedication to learning and exploring new technologies has helped me develop a strong foundation in programming, web development, and database management. I'm excited to continue building my skills and knowledge in this field, and I'm confident that my enthusiasm and drive will lead to future success.
 
 ---
 
