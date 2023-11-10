@@ -58,4 +58,4 @@ These certifications have facilitated the refinement of my Deployment skills in 
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=BharathxD&rank=AAA,SS,A&theme=onestar)
+![](https://github-profile-trophy.vercel.app/?username=BharathxD&rank=AAA,SS,A&theme=onestar&margin-w=5)
