@@ -1,12 +1,14 @@
 # Bharath Lakshman Kumar
 
+![Contribution Graph](https://contribution.catsjuice.com/_/bharathxd?chart=calendar&gap=0.6&scale=2&gradient=true&animation=none&format=png&quality=1&weeks=50&theme=green&widget_size=small)
+
 Greetings! I'm Bharath Lakshman Kumar B and I'm currently a Senior pursuing a Bachelor's degree in Computer Applications at KL University Hyderabad. I'm part of the 2021-24 batch. As an ambitious individual with a deep passion for technology, I'm highly motivated to excel in the field of computer science. My dedication to learning and exploring new technologies has helped me develop a strong foundation in programming, web development, and database management. I'm excited to continue building my skills and knowledge in this field, and I'm confident that my enthusiasm and drive will lead to future success.
 
 ---
 
 <p align="center">
  
- [![portfolio](https://img.shields.io/badge/-portfolio-black?style=flat-square?style=for-the-badge&logo=ko-fi&logoColor=white)](https://BharathBandi.me)  &nbsp;[![Linkedin Badge](https://img.shields.io/badge/-Bharath%20Lakshman%20kumar%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bharath-bandi/)](https://www.linkedin.com/in/bharath-bandi/)  &nbsp;[![Gmail Badge](https://img.shields.io/badge/-bharatlaxmonkumarb2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bharatlaxmonkumarb2@gmail.com)](bharatlaxmonkumarb2@gmail.com) [![](https://visitcount.itsvg.in/api?id=BharathxD&icon=0&color=0)](https://visitcount.itsvg.in)
+ [![portfolio](https://img.shields.io/badge/-portfolio-black?style=flat-square?style=for-the-badge&logo=ko-fi&logoColor=white)](https://imbharath.tech)  &nbsp;[![Linkedin Badge](https://img.shields.io/badge/-Bharath%20Lakshman%20kumar%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bharath-bandi/)](https://www.linkedin.com/in/bharath-bandi/)  &nbsp;[![Gmail Badge](https://img.shields.io/badge/-bharatlaxmonkumarb2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bharatlaxmonkumarb2@gmail.com)](bharatlaxmonkumarb2@gmail.com) [![](https://visitcount.itsvg.in/api?id=BharathxD&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </p>
 
