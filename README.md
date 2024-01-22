@@ -7,7 +7,7 @@
 
 </p>
 
-Greetings! I'm Bharath Lakshman Kumar B and I'm currently a Senior pursuing a Bachelor's degree in Computer Applications at KL University Hyderabad. I'm part of the 2021-24 batch. As an ambitious individual with a deep passion for technology, I'm highly motivated to excel in the field of computer science. My dedication to learning and exploring new technologies has helped me develop a strong foundation in programming, web development, and database management. I'm excited to continue building my skills and knowledge in this field, and I'm confident that my enthusiasm and drive will lead to future success.
+Hey, I'm Bharath Lakshman Kumar (you can call me Bharath, though). I'm a UI Engineer and a student based in Hyderabad, India. My background is in UI development, but I love everything related to Server-Side Engineering. I enjoy reading and writing blogs related to computer science. I'm working as a software engineering intern at Vertocity, where I contribute to building a variety of AI/Ed SaaS products. I'm all about clean, detailed documentation, rock-solid processes, and never shying away from asking "why?". Those are the pillars of my work, no matter what project I'm tackling. And speaking of projects, my sweet spot lies in the SaaS space. But if there's a chance to turn a playful idea into reality, consider me on board! So, welcome to my corner of the digital world! Feel free to stick around, explore, and don't hesitate to say hello!
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BharathxD&theme=github">
 
