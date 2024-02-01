@@ -4,7 +4,7 @@
 
 <p align="center">
  
-[![portfolio](https://img.shields.io/badge/-portfolio-black?style=flat-square?style=for-the-badge&logo=ko-fi&logoColor=white)](https://imbharath.tech)  &nbsp;[![Linkedin Badge](https://img.shields.io/badge/-Bharath%20Lakshman%20kumar%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bharath-bandi/)](https://www.linkedin.com/in/bharath-bandi/)  &nbsp;[![Gmail Badge](https://img.shields.io/badge/-bharatlaxmonkumarb2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bharath.Lkb@outlook.com)](bharath.Lkb@outlook.com) [![](https://visitcount.itsvg.in/api?id=BharathxD&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Portfolio](https://img.shields.io/badge/-portfolio-black?style=flat-square?style=for-the-badge&logo=ko-fi&logoColor=white)](https://imbharath.tech)  &nbsp;[![Linkedin Badge](https://img.shields.io/badge/-Bharath%20Lakshman%20kumar%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bharath-bandi/)](https://www.linkedin.com/in/bharath-bandi/)  &nbsp;[![Gmail Badge](https://img.shields.io/badge/-bharatlaxmonkumarb2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bharath.Lkb@outlook.com)](bharath.Lkb@outlook.com) [![](https://visitcount.itsvg.in/api?id=BharathxD&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </p>
 
@@ -26,11 +26,12 @@ Hey, I'm Bharath Lakshman Kumar (you can call me Bharath, though). I'm a UI Engi
 
 These certifications have facilitated the refinement of my Deployment skills in diverse domains, ranging from Client-Side to Server-Side. Furthermore, they have imparted to me a comprehensive understanding of cloud technology, which is an essential element of contemporary computing.
 
-## 👨🏻‍💻 Development Career
+## 👨🏻‍💻 Skills
 
-- I possess a strong command of industry-standard web application development, with a focus on scalability and robustness.
-- As an open-source enthusiast, I'm always eager to contribute to community projects and have gravitated toward the development side of things.
-- I take pride in crafting applications that can seamlessly integrate changes, thus enabling my peers to build on my work with ease.
+- Proficient in JavaScript, TypeScript, React, Node.js, AWS, and Azure 
+- Strong understanding of web architecture, database design, and security best practices
+- Experience with CI/CD pipelines, containerization, and infrastructure as code
+- Knowledgeable in test-driven development, design patterns, and clean coding practices
 
 ## 🧰 Languages and Tools
 
