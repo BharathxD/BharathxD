@@ -28,10 +28,10 @@ These certifications have facilitated the refinement of my Deployment skills in 
 
 ## 👨🏻‍💻 Skills
 
-- Proficient in JavaScript, TypeScript, React, Node.js, AWS, and Azure 
-- Strong understanding of web architecture, database design, and security best practices
-- Experience with CI/CD pipelines, containerization, and infrastructure as code
-- Knowledgeable in test-driven development, design patterns, and clean coding practices
+Languages: Proficient in TypeScript and JavaScript, and have a working knowledge of C/C++, Java, Python, and SQL
+Web Development: React, NextJS, Redux, HTML5, CSS3, TailwindCSS, NodeJS, ExpressJS, RESTful API
+Technology: Amazon Web Services, Microsoft Azure, Git/GitHub, Docker, MySQL, MongoDB
+Other Skills: Systems Design, UI/UX Design, Problem-Solving, Debugging, Effective Communication
 
 ## 🧰 Languages and Tools
 
